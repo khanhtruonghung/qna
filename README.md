@@ -1,13 +1,5 @@
 # qna
 
-aa
-
-
-
-
-This repo is use for learning golang
-
-
 ### Question about Squash commit in Git:
 
 - You will use squash commit a lot because it make your git flow more organize or you can change the commit message.
